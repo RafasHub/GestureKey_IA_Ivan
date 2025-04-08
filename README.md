@@ -6,4 +6,4 @@ Em seguida, dividimos cada imagem em duas partes distintas – watermarkTop e wa
 
 Por fim, realizamos cortes precisos para remover completamente as marcas d’água das imagens, assegurando que os dados de treinamento não contenham elementos que possam induzir vieses ou interferir no aprendizado da IA.
 
-Todo o tratamento foi implementado em Python, com códigos otimizados para performance e organização, e os scripts juntamente com as imagens processadas estão disponíveis no repositório.
+Todo o tratamento foi implementado em Python, com códigos otimizados para performance e organização, e os scripts estão disponíveis no repositório.
