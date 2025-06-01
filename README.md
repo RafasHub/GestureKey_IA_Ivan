@@ -85,3 +85,21 @@ Para que tudo funcione corretamente, você vai precisar de:
 4.  **Salve:** Salve suas alterações no arquivo `.bat`.
 5.  **Atualize o Caminho (Se Necessário):** Se você renomear o arquivo da macro ou salvá-lo em outro lugar, lembre-se de atualizar o `MACRO_SCRIPT_PATH` no script `detect_mouth_webcam.py`.
 
+
+## Atribuição
+@misc{
+  open-mouth_dataset,
+  title = { Open Mouth Dataset },
+  type = { Open Source Dataset },
+  author = { Open Mouth },
+  howpublished = { \url{ https://universe.roboflow.com/open-mouth/open-mouth } },
+  url = { https://universe.roboflow.com/open-mouth/open-mouth },
+  journal = { Roboflow Universe },
+  publisher = { Roboflow },
+  year = { 2023 },
+  month = { mar },
+  note = { visited on 2025-05-31 },
+}
+
+
+
